@@ -1,4 +1,4 @@
-# Games1
+# Python Games 1
 
 # This is the project of a mini game called "GemGem game" . 
 # I used python and pygame package to create it
